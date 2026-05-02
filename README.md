@@ -93,20 +93,20 @@ As **General Secretary** of my college, I drive campus-wide initiatives, mentor 
 ## 📊 GitHub Analytics (Live & Dynamic)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=2D9C7C&icon_color=2D9C7C" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=vue-dark&hide_border=true&background=0d1117&stroke=2D9C7C&ring=2D9C7C&fire=2D9C7C" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=plaini2108&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=2D9C7C&icon_color=2D9C7C" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=plaini2108&theme=vue-dark&hide_border=true&background=0d1117&stroke=2D9C7C&ring=2D9C7C&fire=2D9C7C" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=2D9C7C" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plaini2108&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=2D9C7C" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=plaini2108&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&bg_color=0d1117&color=2D9C7C&line=2D9C7C&point=FFFFFF&area=true&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=plaini2108&bg_color=0d1117&color=2D9C7C&line=2D9C7C&point=FFFFFF&area=true&hide_border=true" width="90%" />
 </p>
 
 ---
